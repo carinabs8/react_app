@@ -8,7 +8,7 @@ class NotesList extends Component {
         { this.props.notas.map((nota, index )=> {
           return(
             <li key={index} >
-              <NoteCard nota={nota}/>
+              <NoteCard nota={nota} deleteNote={this.props.deleteNote} index={index}/>
             </li>
           )
         })}
