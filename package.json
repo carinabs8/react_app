@@ -6,10 +6,19 @@
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "elliptic": "^6.5.4",
+    "ini": "^2.0.0",
+    "is-svg": "^4.3.1",
+    "lodash": "^4.17.21",
+    "node-notifier": "^9.0.1",
     "react": "^17.0.1",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.1",
-    "web-vitals": "^0.2.4"
+    "ssri": "^8.0.1",
+    "url-parse": "^1.5.1",
+    "web-vitals": "^0.2.4",
+    "y18n": "^5.0.8"
   },
   "scripts": {
     "start": "react-scripts start",
